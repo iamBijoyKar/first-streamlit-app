@@ -5,7 +5,7 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 # from sklearn.externals import joblib
-st.image('./ai.jpg',caption='Machine Learning')
+# st.image('./ai.jpg',caption='Machine Learning')
 st.title('Songs Gern Prediction Model')
 st.write("It will predict the gern of songs from people's age \n #### Data Table ")
 
